@@ -1,4 +1,4 @@
-const ArrayNombres = ['Juan','beto','cindy'];
+const ArrayNombres = ['Luis','Beto','Cindy'];
 
 //export default permite exportar unicamente esa variable del archivo, en cambio si se utiliza export antes del tipo de dato permite exportar la variable que contenga esta palabra reservada
 export const ArrayEstadosAnimo = ['Enojado','Feliz','Emocionado'];
